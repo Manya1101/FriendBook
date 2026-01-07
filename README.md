@@ -6,11 +6,11 @@
 
 ## 🚀 Features
 
-- 🔹 User authentication and profiles  
-- 🔹 Create, edit, and delete posts  
-- 🔹 Like and comment on posts  
-- 🔹 Friend requests and connections  
-- 🔹 Responsive and clean UI  
+-  User authentication and profiles  
+-  Create, edit, and delete posts  
+-  Like and comment on posts  
+-  Friend requests and connections  
+-  Responsive and clean UI  
 
 ---
 
