@@ -1,1 +1,25 @@
-FriendBook is a full-stack social networking web app built using the MERN stack (MongoDB, Express, React, Node.js). It allows users to create accounts, update profiles, send and accept friend requests, and maintain a personal friends list. The app supports secure authentication, real-time updates, and a responsive UI built with React. Users can interact through posts and manage their connections in a clean, user-friendly interface. The project demonstrates my skills in frontend–backend integration, RESTful API design, state management, and building scalable, interactive web applications.
+# 👥 FriendBook
+
+**FriendBook** is a social networking platform built with the **MERN stack** that allows users to connect, share posts, and interact with friends in real time. It features secure authentication, post management, and a responsive interface.
+
+---
+
+## 🚀 Features
+
+- 🔹 User authentication and profiles  
+- 🔹 Create, edit, and delete posts  
+- 🔹 Like and comment on posts  
+- 🔹 Friend requests and connections  
+- 🔹 Responsive and clean UI  
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, Axios, React Router  
+- **Backend:** Node.js, Express.js, MongoDB & Mongoose  
+- **Authentication:** JWT  
+- **Other Tools:** dotenv, CORS, Git & GitHub  
+
+
+
